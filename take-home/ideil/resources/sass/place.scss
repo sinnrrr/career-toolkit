@@ -1,0 +1,57 @@
+article {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 30px;
+    overflow-wrap: break-word;
+    margin-bottom: 15px;
+}
+
+article > div {
+    float: right;
+}
+
+a.btn-outline-secondary:hover {
+    color: white !important;
+}
+
+section > div > a {
+    text-decoration: underline;
+}
+
+h1 {
+    overflow-wrap: break-word;
+}
+
+#popup {
+    position: absolute;
+    top: -50%;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: all .5s ease-in-out;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: 800;
+    font-size: 24px;
+    padding: 15px 30px 0;
+    border-radius: 15px;
+    z-index: 3;
+}
+
+#popup.show {
+    top: 10%;
+}
+
+#popup.remove {
+    top: -50%;
+}
+
+img {
+    max-height: 200px;
+    margin: 15px;
+}
+
+div.pagination {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
