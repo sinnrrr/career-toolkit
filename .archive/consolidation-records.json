@@ -1,0 +1,186 @@
+{
+  "repositories": {
+    "interview-preparations": {
+      "name": "interview-preparations",
+      "url": "https://github.com/sinnrrr/interview-preparations",
+      "description": "Leetcode, take home assignments, system design",
+      "isPrivate": false,
+      "isArchived": false,
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "oid": "f3e54a697c6cb999a725ebc17a27508e749a5301"
+        }
+      },
+      "refs": {
+        "totalCount": 18,
+        "nodes": [
+          {
+            "name": "archive/arsmoon/master",
+            "target": {
+              "oid": "70fbb329fb7e911f3e7b8f5feadd0e285facb020"
+            }
+          },
+          {
+            "name": "archive/ideil/dependabot/npm_and_yarn/elliptic-6.5.3",
+            "target": {
+              "oid": "95d680b6afaea37d49edadf59f56fb6d561b24eb"
+            }
+          },
+          {
+            "name": "archive/ideil/dependabot/npm_and_yarn/http-proxy-1.18.1",
+            "target": {
+              "oid": "c077f5eb3f9d6a48e6f6e64dd77f14021d8ef7a2"
+            }
+          },
+          {
+            "name": "archive/ideil/dependabot/npm_and_yarn/lodash-4.17.19",
+            "target": {
+              "oid": "643a20e1e296f204b9f8e6b2d46402622acfe34b"
+            }
+          },
+          {
+            "name": "archive/ideil/dependabot/npm_and_yarn/websocket-extensions-0.1.4",
+            "target": {
+              "oid": "e40fbcbf7742c7adecbc761fc7e2228749f56ea5"
+            }
+          },
+          {
+            "name": "archive/ideil/master",
+            "target": {
+              "oid": "1ec20d7e1423edf985f68352a1b26c6e52c82bef"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/1/head",
+            "target": {
+              "oid": "57a92ff1c371a27d63ce229370878de16648a14a"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/3/head",
+            "target": {
+              "oid": "e40fbcbf7742c7adecbc761fc7e2228749f56ea5"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/3/merge",
+            "target": {
+              "oid": "014aedb8f96f701eba39e43c66e1678aeb0457af"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/4/head",
+            "target": {
+              "oid": "643a20e1e296f204b9f8e6b2d46402622acfe34b"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/4/merge",
+            "target": {
+              "oid": "d2c431700a02aad9eb0edce9895be76df7f06fde"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/5/head",
+            "target": {
+              "oid": "95d680b6afaea37d49edadf59f56fb6d561b24eb"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/5/merge",
+            "target": {
+              "oid": "51110aa90e829c5f88f210e971c1f4ef04dc8296"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/6/head",
+            "target": {
+              "oid": "c077f5eb3f9d6a48e6f6e64dd77f14021d8ef7a2"
+            }
+          },
+          {
+            "name": "archive/ideil/pull/6/merge",
+            "target": {
+              "oid": "6e2ef72b8fbf5adce4d74213ef73974dcd4b1700"
+            }
+          },
+          {
+            "name": "archive/ideil/review",
+            "target": {
+              "oid": "c3c22b45fa112085eca082d061b1d3460147610f"
+            }
+          },
+          {
+            "name": "archive/ideil/test",
+            "target": {
+              "oid": "177f3c9da5c5e7956c3c53707500ffa5ac73f12c"
+            }
+          },
+          {
+            "name": "main",
+            "target": {
+              "oid": "f3e54a697c6cb999a725ebc17a27508e749a5301"
+            }
+          }
+        ]
+      },
+      "tags": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "issues": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "pullRequests": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "releases": {
+        "totalCount": 0,
+        "nodes": []
+      }
+    },
+    "job-tools": {
+      "name": "job-tools",
+      "url": "https://github.com/sinnrrr/job-tools",
+      "description": "Job search automations",
+      "isPrivate": false,
+      "isArchived": false,
+      "defaultBranchRef": {
+        "name": "main",
+        "target": {
+          "oid": "070e4cb55a78e10facc03f48cb24ad12a60b1e66"
+        }
+      },
+      "refs": {
+        "totalCount": 1,
+        "nodes": [
+          {
+            "name": "main",
+            "target": {
+              "oid": "070e4cb55a78e10facc03f48cb24ad12a60b1e66"
+            }
+          }
+        ]
+      },
+      "tags": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "issues": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "pullRequests": {
+        "totalCount": 0,
+        "nodes": []
+      },
+      "releases": {
+        "totalCount": 0,
+        "nodes": []
+      }
+    }
+  }
+}
